@@ -1,3 +1,14 @@
+'''
+title: Chat With Documents
+emoji: ⚡
+colorFrom: green
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.33.0
+app_file: app.py
+pinned: false
+'''
+
 # CHAT WITH DOCUMENTS 
 
 ## Installation
